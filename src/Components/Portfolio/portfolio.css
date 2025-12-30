@@ -1,0 +1,21 @@
+.left,
+.right{
+    width: 80px;
+    height: 4px;
+    background: #2C3E50;
+}
+
+h2{
+    color: #2C3E50;
+}
+
+.layer{
+background:#1ABC9C ;
+opacity: 0;
+transition: all 0.3s ease-in-out;
+}
+
+
+.inner:hover .layer{
+    opacity: 0.8;
+}

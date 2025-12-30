@@ -1,0 +1,8 @@
+:root{
+    --about-bg-color: #1ABC9C;
+}
+
+.about-section{
+    background-color: var(--about-bg-color);
+}
+

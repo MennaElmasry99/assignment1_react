@@ -1,0 +1,14 @@
+.main-landing-page{
+    background: #1ABC9C;
+}
+
+img{
+    width: 21%;
+}
+
+.left-line,
+.right-line{
+    width: 80px;
+    height: 4px;
+    background-color: #fff;
+}
